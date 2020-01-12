@@ -1,4 +1,4 @@
-Simple React Frontend Pagination
+# Simple React Frontend Pagination
 
 * React Hooks
 * Bootstrap
